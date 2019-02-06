@@ -1,4 +1,4 @@
-# Image-Quantization
+# ImageQuantization_type_1
 
 ## Input
 
